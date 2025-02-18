@@ -1,6 +1,7 @@
 # Ignore build items later ignore whole folder
 VulkanTest
 build
+*.spv 
 
 # Prerequisites
 *.d
